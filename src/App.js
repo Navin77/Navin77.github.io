@@ -1,4 +1,6 @@
 import React from 'react';
+import Projects from './Projects.js';
+
 
 class App extends React.Component {
     render() {
@@ -15,6 +17,7 @@ class App extends React.Component {
                     currently learning the reactJS and ExpressJs libraries
                     and blockchain.......
                 </p>
+                <Projects />
             </main>
             <footer>
                 <p>done by Navin Raj</p>
