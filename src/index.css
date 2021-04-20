@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  line-height: 1.75;
+  text-rendering: optimizeSpeed;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  max-width: 1400px;
+  background-color: #B2EBF2;
+  margin: 0 auto;
+}
+
+p, a {
+  font-size: 2rem;
+  font-weight: normal;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+h2 {
+  font-size: 2.75rem;
+  font-weight: bold;
+}
+h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+h4 {
+  font-size: 2.25rem;
+  font-weight: bold;
+}
+a {
+  color: #0517a6;
+  text-decoration: underline;
+}
