@@ -7,12 +7,9 @@ class App extends React.Component {
 
         return (
             <>
-            <nav>
-                <li>Home</li>
-                <li>Projects</li>
-            </nav>
             <main>
-                <p>
+                <h1>About me</h1>
+                <p className="aboutMe">
                     I am Navin Raj from India and I like web developing,
                     currently learning the reactJS and ExpressJs libraries
                     and blockchain.......

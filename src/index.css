@@ -41,3 +41,41 @@ a {
   color: #0517a6;
   text-decoration: underline;
 }
+
+#root {
+  padding: .5rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+.project {
+    border: .2rem groove rgb(10, 145, 176);
+    border-radius: .5rem;
+    padding: .5rem;
+}
+
+.project>summary {
+    font-size: 2rem;
+    padding: 0 .5rem;
+    cursor: pointer;
+
+}
+
+.project[open] summary {
+    border-bottom: .2rem dashed rgb(10, 145, 176);
+    padding-bottom: 1.5rem;
+}
+
+.project button {
+	padding: 1rem;
+	margin: 0;
+	border: 0;
+	border-radius: 1rem;
+	background-color: #0b7f8b;
+	color: white;
+  cursor: pointer;
+  margin: 1rem 0;
+  font-size: 2rem;
+}
