@@ -8,6 +8,7 @@ class Projects extends React.Component {
                 <h1>Projects built so far</h1>
                     {
                         this.props.projects.map(project => {
+
                         return (
                         <Project 
                                 title={project.title}
@@ -16,6 +17,7 @@ class Projects extends React.Component {
                                 key={project.link}
                         />
                         )
+                        
                         })
 
                     }
