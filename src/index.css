@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
 }
 
-p, a {
+p, a, ul {
   font-size: 2rem;
   font-weight: normal;
 }
@@ -43,10 +43,6 @@ a {
 }
 
 #root {
-  padding: .5rem;
-}
-
-main {
   padding: 1rem;
 }
 
@@ -54,6 +50,7 @@ main {
     border: .2rem groove rgb(10, 145, 176);
     border-radius: .5rem;
     padding: .5rem;
+    margin-bottom: 2rem;
 }
 
 .project>summary {
@@ -68,8 +65,12 @@ main {
     padding-bottom: 1.5rem;
 }
 
-.project button {
-	padding: 1rem;
+.project div {
+  display:flex;
+  justify-content: center;
+}
+.project a {
+	padding: .5rem 1rem;
 	margin: 0;
 	border: 0;
 	border-radius: 1rem;
@@ -78,4 +79,5 @@ main {
   cursor: pointer;
   margin: 1rem 0;
   font-size: 2rem;
+  text-decoration: none;
 }

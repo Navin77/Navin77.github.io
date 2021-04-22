@@ -8,9 +8,17 @@ class Project extends React.Component {
                     <summary>Age Calculator</summary>
                     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-                    <a target="_blank" href="">
-                        <button>view this project</button>
-                    </a>
+                        <div>
+                        <a target="_blank" href="">view this project</a>
+                        </div>
+                </details>
+                <details className="project">
+                    <summary>Age Calculator</summary>
+                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                        <div>
+                             <a target="_blank" href="">view this project</a>
+                        </div>
                 </details>
             </>
         )

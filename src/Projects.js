@@ -4,10 +4,10 @@ import Project from './Project.js';
 class Projects extends React.Component {
     render() {
         return (
-            <section>
+            <main>
                 <h1>Projects built so far</h1>
                 <Project />
-            </section>
+            </main>
         )
     }
 }

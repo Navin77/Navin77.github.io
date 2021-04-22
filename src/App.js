@@ -7,17 +7,22 @@ class App extends React.Component {
 
         return (
             <>
-            <main>
+            <header>
                 <h1>About me</h1>
                 <p className="aboutMe">
-                    I am Navin Raj from India and I like web developing,
+                    I am Navin Raj and I like web developing,
                     currently learning the reactJS and ExpressJs libraries
                     and blockchain.......
                 </p>
+             </header>
                 <Projects />
-            </main>
             <footer>
-                <p>done by Navin Raj</p>
+                <h1>Other Profiles</h1>
+                 <ul>
+                        <li>
+                            <a href="https://github.com/Navin77" target="_blank" rel="external">github</a>
+                        </li>
+                 </ul>
             </footer>
             </>
         )
