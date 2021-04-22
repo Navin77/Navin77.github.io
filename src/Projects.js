@@ -6,7 +6,19 @@ class Projects extends React.Component {
         return (
             <main>
                 <h1>Projects built so far</h1>
-                <Project />
+                    {
+                        this.props.projects.map(project => {
+                        return (
+                        <Project 
+                                title={project.title}
+                                desc={project.desc}
+                                link={project.link}
+                                key={project.link}
+                        />
+                        )
+                        })
+
+                    }
             </main>
         )
     }

@@ -1,8 +1,15 @@
 import React from 'react';
 import Projects from './Projects.js';
+import appState from './appState.js';
 
 
 class App extends React.Component {
+    constructor(props) {
+        super(props)
+        this.state = appState;
+    }
+
+
     render() {
 
         return (
@@ -15,7 +22,7 @@ class App extends React.Component {
                     and blockchain.......
                 </p>
              </header>
-                <Projects />
+                <Projects  projects={this.state.projects}/>
             <footer>
                 <h1>Navin77 profiles</h1>
                  <ul>
