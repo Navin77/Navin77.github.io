@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="structure_inkscape.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker1298"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1296" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1264"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1262" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path963" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path957" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0993106"
+     inkscape:cx="1130.6464"
+     inkscape:cy="367.1931"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#000000;stroke:#000000;stroke-width:0.821526"
+     id="rect971"
+     width="41.560719"
+     height="109.45845"
+     x="289.92514"
+     y="40.709999"
+     inkscape:export-xdpi="110"
+     inkscape:export-ydpi="110" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:6.39px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.452835"
+       x="291.21783"
+       y="48.618938"
+       id="text12"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110"><tspan
+         sodipodi:role="line"
+         x="291.21783"
+         y="48.618938"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835"
+         id="tspan44">appState.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.39px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.452835"
+       x="299.59558"
+       y="82.584717"
+       id="text115"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110"><tspan
+         sodipodi:role="line"
+         id="tspan113"
+         x="299.59558"
+         y="82.584717"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835">App.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.39px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.452835"
+       x="296.38672"
+       y="112.98203"
+       id="text119"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110"><tspan
+         sodipodi:role="line"
+         id="tspan117"
+         x="296.38672"
+         y="112.98203"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835">Projects.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.39px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.452835"
+       x="298.92328"
+       y="140.68047"
+       id="text123"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110"><tspan
+         sodipodi:role="line"
+         id="tspan121"
+         x="298.92328"
+         y="140.68047"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835">Project.js</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835;marker-end:url(#Arrow1Mend)"
+       d="M 309.1437,56.259647 V 72.156516"
+       id="path125"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835;marker-end:url(#marker1264)"
+       d="m 310.35217,89.32321 v 14.43212"
+       id="path127"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.452835;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker1298)"
+       d="m 310.64557,117.81189 v 13.29249"
+       id="path129"
+       inkscape:export-xdpi="110"
+       inkscape:export-ydpi="110" />
+  </g>
+</svg>
