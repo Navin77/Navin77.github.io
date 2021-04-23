@@ -1,5 +1,14 @@
 import React from 'react';
 
+
+/**
+ * PROPS:
+ *      title @string
+ *      desc @string
+ *      link @string
+ */
+
+
 class Project extends React.Component {
     render() {
         return (

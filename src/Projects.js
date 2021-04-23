@@ -1,6 +1,12 @@
 import React from 'react';
 import Project from './Project.js';
 
+/**
+ * PROPS:
+ *      projects @array
+ */
+
+
 class Projects extends React.Component {
     render() {
         return (
