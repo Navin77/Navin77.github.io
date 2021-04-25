@@ -1,5 +1,5 @@
 {
     "include": ["./src/**/*"],
     "exclude": ["node_modules", "./Design.jpg", 
-                "./.gitignore", "public", "build"]
+                "./.gitignore", "./public", "./build"]
 }
